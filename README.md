@@ -8,3 +8,6 @@
 
 ![GitHub Logo](/Resources/IMG/fe3.jpg)
 [Calendar](url)
+
+![GitHub Logo](/Resources/IMG/fe4.jpg)
+[Recommendations](url)
